@@ -21,5 +21,5 @@ Please fork this repository and then issue Pull requests for review.
 
 ## Copyright
 
-2018 GIT Training
+2018 GIT Training. All rights reserved
 
