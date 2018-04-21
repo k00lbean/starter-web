@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dany Michaud	dmichaud@gmail.com	@aaa
 
 # THANKS
 
